@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: clean-folder
+Version: 1
+Summary: sort files in specified directory
+Home-page: https://github.com/AntonHran/python_core_ht_7.git
+Author: AntonHran
+Author-email: t.granowsky@gmail.com
+License: MIT
